@@ -1,0 +1,15 @@
+PROBLEM:-
+You are given two sets.
+Set A = {1,2,3,4,5,6}
+Set B = {2,3,4,5,6,7,8}
+
+What is the total number of ordered pairs present in the Cartesian Product  ? Only enter the correct integer in the answering box. Do not include any extra spaces, tabs or newlines.
+
+SOLUTION:-
+42
+
+EXPLANATION:-
+The cartesian product of sets results in a set that includes collections of all ordered pairs.
+no. of elemnts in set A = 6
+no. of elements in set B = 7
+Total no. of ordered pair = 6*7 = 42
