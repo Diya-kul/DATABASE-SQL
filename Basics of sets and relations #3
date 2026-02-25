@@ -1,0 +1,16 @@
+PROBLEM:-
+You are given two sets.
+Set A = {1,2,3,4,5,6}
+Set B = {2,3,4,5,6,7,8}
+
+How many elements are present in A - B?
+Only enter the correct integer in the answering box. Do not include any extra spaces, tabs or newlines.
+
+SOLUTION:-
+1
+
+EXPLANATION:-
+Difference (A-B) Contains elements that are in the first set A but not in the second set B.
+A = {1,2,3,4,5,6}
+B = {2,3,4,5,6,7,8}
+A - B = {1}
