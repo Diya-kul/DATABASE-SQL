@@ -1,0 +1,18 @@
+Starting with the very first question of hackerrank.
+
+PROBLEM:-
+You are given two sets.
+Set A = {1,2,3,4,5,6}
+Set B = {2,3,4,5,6,7,8}
+
+How many elements are present in ?
+Only enter the correct integer in the editor below. Do not include any extra spaces, tabs or newlines.
+
+SOLUTION:-
+8
+
+EXPLANATION:-
+Union of set A and B ( A U B ) is all unique elements from both sets A and B, resulting in a set containing elements that are in A, B or both.
+A = {1,2,3,4,5,6}
+B = {2,3,4,5,6,7,8}
+A U B = {1,2,3,4,5,6,7,8}, which is total 8 elements.
